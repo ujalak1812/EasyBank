@@ -4,4 +4,4 @@
 
 Challenge details can be found [here](https://www.frontendmentor.io/challenges/easybank-landing-page-WaUhkoDN)
 
-Check demo at ujalak1812.github.io/easybank/
+***Check out the demo at*** [EasyBank](ujalak1812.github.io/easybank/)
